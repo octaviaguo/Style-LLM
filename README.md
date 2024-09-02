@@ -7,6 +7,10 @@ This repo contains the code and the benchmark for our ACL 2024 paper: <a href="h
 </p>
 
 ## Installation
+This project uses python 3.9.
+```
+pip install -r requirements.txt
+```
 
 ## Citation
 If our work inspires you, please consider citing our paper:
