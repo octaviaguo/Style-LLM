@@ -28,5 +28,4 @@ If our work inspires you, please consider citing our paper:
     pages = "13708--13731",
     abstract = "Language style is often used by writers to convey their intentions, identities, and mastery of language. In this paper, we show that current large language models struggle to capture some language styles without fine-tuning. To address this challenge, we investigate whether LLMs can be meta-trained based on representative lexicons to recognize new styles they have not been fine-tuned on. Experiments on 13 established style classification tasks, as well as 63 novel tasks generated using LLMs, demonstrate that meta-training with style lexicons consistently improves zero-shot transfer across styles. We release the code and data at https://github.com/octaviaguo/Style-LLM.",
 }
-
 ```
